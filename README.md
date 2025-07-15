@@ -1,2 +1,2 @@
 # HistoricalWeatherForecastComparisontoActuals
-IMB course Hands on labs 
+IBM course Hands on labs 
